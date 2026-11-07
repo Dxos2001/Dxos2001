@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Alex León 👋</h1>
-  <h3>Senior .NET / Cloud & AI Backend Engineer</h3>
+  <h3>Semi-Senior .NET / Cloud Senior .NET / Cloud & AI Backend Engineer AI Backend Engineer</h3>
   <p>
     Building resilient, event-driven distributed systems, FinTech backends, and production RAG pipelines.
   </p>
@@ -16,7 +16,7 @@
 
 ### 💼 About Me
 
-* 🏛️ **Senior Backend Architect:** Focused on mission-critical banking architectures (.NET Core / C#), Clean Architecture, Domain-Driven Design (DDD), Transactional Outbox, and high-throughput SQL Server/MySQL optimization.
+* 🏛️ **Backend Engineer (Semi-Senior):** Focused on mission-critical banking architectures (.NET Core / C#), Clean Architecture, Domain-Driven Design (DDD), Transactional Outbox, and high-throughput SQL Server/MySQL optimization.
 * 🤖 **AI & RAG Systems:** Architecting retrieval-augmented generation (RAG) pipelines, semantic embeddings (`sentence-transformers`), FAISS vector indexes, and local autonomous multi-agent systems.
 * ☁️ **Cloud & DevSecOps:** Cloud infrastructure and operational automation on **Microsoft Azure** & **AWS**, Docker containerization, and automated CI/CD pipelines via GitHub Actions.
 * 🎓 **Education:** Systems Engineering student at Universidad Privada del Norte (UPN) & Computer Science graduate from Cibertec.
