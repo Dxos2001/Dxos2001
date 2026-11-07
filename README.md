@@ -87,8 +87,15 @@
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dxos2001&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Alex's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dxos2001&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dxos2001&theme=radical" alt="Alex's GitHub Profile Details" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Dxos2001&theme=radical&hide_border=true" alt="Alex's GitHub Streak" width="49%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dxos2001&theme=radical" alt="Repos per Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dxos2001&theme=radical" alt="Most Commit Language" width="49%" />
 </div>
 
 ---
